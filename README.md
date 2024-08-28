@@ -10,7 +10,7 @@ A Bot különböző funkciókat kínál a Discord felhasználóknak, mint péld�
 
 ### 3. Felelősség
 
-A Bot használata saját felelősségére történik. A fejlesztő nem vállal felelősséget semmilyen kárért, amely a Bot használatából eredhet. A Bot szolgáltatásait "ahogy van" alapon biztosítjuk, garanciák nélkül.
+A Bot használata saját felelősségére történik. A fejlesztő nem vállal felelősséget semmilyen kárért, amely a Bot használatából eredhet. A Bot szolgáltatásait "ahogy van" alapon biztosítjuk, garanciák nélkül. A bot használatával/szerverre hívásával engedélyezed, hogy a bot fejlesztője a szervered összes üzenetét elolvassa és írhasson a bot nevében.
 
 ### 4. Felhasználói kötelezettségek
 
