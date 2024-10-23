@@ -1,5 +1,9 @@
 ## Általános Szerződési Feltételek (ÁSZF)
 
+
+A BOT MEGHÍVÁSA, ILLETVE HASZNÁLATA AZT JELENTI, HOGY MEGÉRTETTED, ÉS ELFOGADTAD AZ ALÁBBIAKAT!
+
+
 ### 1. Bevezetés
 
 A Reaper Discord bot ("Bot") használatával Ön elfogadja a jelen Általános Szerződési Feltételeket ("ÁSZF"). Kérjük, figyelmesen olvassa el ezeket a feltételeket, mielőtt használni kezdené a Botot.
@@ -23,3 +27,4 @@ A fejlesztő fenntartja a jogot az ÁSZF módosítására. A változtatásokról
 ### 6. Kapcsolat
 
 Bármilyen kérdés vagy észrevétel esetén lépjen kapcsolatba velünk a következő email címen [info.reaperbot@gmail.com](info.reaperbot@gmail.com) vagy csatlakozz a [Discord](https://dsc.gg/reaper-support) szerverünkre 
+ 
