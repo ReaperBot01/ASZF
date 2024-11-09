@@ -65,4 +65,7 @@ Az Adatvédelmi Irányelvek időről időre frissülhetnek. A frissítésekről 
 Bármilyen kérdés vagy észrevétel esetén lépjen kapcsolatba velünk a következő email címen: [info.
 reaperbot@gmail.com](info.reaperbot@gmail.com).
 
+
+`Utolsó módosítás: 2024 nov. 9`
+
  
